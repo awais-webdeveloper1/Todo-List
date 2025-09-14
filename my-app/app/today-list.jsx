@@ -58,7 +58,7 @@ export default function TodayForm() {
                         type="text"
                         value={itemWeight}
                         onChange={handleweightChane}
-                        placeholder="ItemWeight"
+                        placeholder="ItemWeight" 
                         className="mt-6 h-12 w-xl shadow-xl rounded-[10] text-black p-6"
                     />
                     <input
